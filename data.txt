@@ -1,0 +1,5 @@
+INSERT INTO `php_assignment`.`tutorial` (`id`, `day`, `time`, `capacity`) VALUES ('1', 'Monday', '9:00-10:00', '2');
+INSERT INTO `php_assignment`.`tutorial` (`id`, `day`, `time`, `capacity`) VALUES ('2', 'Monday', '11:00-12:00', '2');
+INSERT INTO `php_assignment`.`tutorial` (`id`, `day`, `time`, `capacity`) VALUES ('3', 'Tuesday', '9:00-10:00', '2');
+
+INSERT INTO `php_assignment`.`tutorial` (`id`, `day`, `time`, `capacity`) VALUES ('5', 'Wednesday', '9:00-10:00', '2');
